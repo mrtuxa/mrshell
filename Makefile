@@ -7,4 +7,4 @@
 
 
 shell:
-	gcc *.c
+	gcc *.c -lreadline	
